@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sonovate.CodeTest", "Sonovate.CodeTest.csproj", "{45F21003-D34B-430D-A02A-2EAC5A231B8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3FA7C45-9AC8-4AD9-95CA-D1AAF75C7ED7}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonovate.Domain", "..\Sonovate.Domain\Sonovate.Domain.csproj", "{196AE0A4-F979-4586-AFB6-571002B3ACAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonovate.Repository", "..\Sonovate.Repository\Sonovate.Repository.csproj", "{C6C1E566-43AA-4097-88B0-6FE3570E7BA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonovate.Service", "..\Sonovate.Service\Sonovate.Service.csproj", "{74699656-4F52-46CC-8015-F2D3AFF680EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonovate.Tests", "..\Sonovate.Tests\Sonovate.Tests.csproj", "{168F79B5-42CE-48DF-B7A6-02CE3E6B7D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F21003-D34B-430D-A02A-2EAC5A231B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F21003-D34B-430D-A02A-2EAC5A231B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F21003-D34B-430D-A02A-2EAC5A231B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F21003-D34B-430D-A02A-2EAC5A231B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196AE0A4-F979-4586-AFB6-571002B3ACAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196AE0A4-F979-4586-AFB6-571002B3ACAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196AE0A4-F979-4586-AFB6-571002B3ACAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196AE0A4-F979-4586-AFB6-571002B3ACAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C1E566-43AA-4097-88B0-6FE3570E7BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C1E566-43AA-4097-88B0-6FE3570E7BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C1E566-43AA-4097-88B0-6FE3570E7BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C1E566-43AA-4097-88B0-6FE3570E7BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74699656-4F52-46CC-8015-F2D3AFF680EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74699656-4F52-46CC-8015-F2D3AFF680EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74699656-4F52-46CC-8015-F2D3AFF680EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74699656-4F52-46CC-8015-F2D3AFF680EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168F79B5-42CE-48DF-B7A6-02CE3E6B7D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168F79B5-42CE-48DF-B7A6-02CE3E6B7D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168F79B5-42CE-48DF-B7A6-02CE3E6B7D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168F79B5-42CE-48DF-B7A6-02CE3E6B7D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6780299A-1AA6-42C4-A6FA-94E1C1FBE3CE}
+	EndGlobalSection
+EndGlobal

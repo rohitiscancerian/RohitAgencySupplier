@@ -1,0 +1,8 @@
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Domain\bin\Debug\netstandard2.0\Sonovate.Domain.deps.json
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Domain\bin\Debug\netstandard2.0\Sonovate.Domain.dll
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Domain\bin\Debug\netstandard2.0\Sonovate.Domain.pdb
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Domain\obj\Debug\netstandard2.0\Sonovate.Domain.AssemblyInfoInputs.cache
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Domain\obj\Debug\netstandard2.0\Sonovate.Domain.AssemblyInfo.cs
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Domain\obj\Debug\netstandard2.0\Sonovate.Domain.dll
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Domain\obj\Debug\netstandard2.0\Sonovate.Domain.pdb
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Domain\obj\Debug\netstandard2.0\Sonovate.Domain.csprojAssemblyReference.cache

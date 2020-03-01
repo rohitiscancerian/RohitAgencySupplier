@@ -1,0 +1,11 @@
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\bin\Debug\netstandard2.0\Sonovate.Repository.deps.json
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\bin\Debug\netstandard2.0\Sonovate.Repository.dll
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\bin\Debug\netstandard2.0\Sonovate.Repository.pdb
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\bin\Debug\netstandard2.0\Sonovate.Domain.dll
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\bin\Debug\netstandard2.0\Sonovate.Domain.pdb
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\obj\Debug\netstandard2.0\Sonovate.Repository.csprojAssemblyReference.cache
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\obj\Debug\netstandard2.0\Sonovate.Repository.AssemblyInfoInputs.cache
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\obj\Debug\netstandard2.0\Sonovate.Repository.AssemblyInfo.cs
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\obj\Debug\netstandard2.0\Sonovate.Repository.csproj.CopyComplete
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\obj\Debug\netstandard2.0\Sonovate.Repository.dll
+C:\Users\erroh\Downloads\Sonovate.CodeTest\Sonovate.Repository\obj\Debug\netstandard2.0\Sonovate.Repository.pdb
