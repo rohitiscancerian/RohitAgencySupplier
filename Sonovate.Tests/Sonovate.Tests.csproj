@@ -93,6 +93,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PaymentsRepositoryTests.cs" />
+    <Compile Include="InvoiceTransactionRepositoryTests.cs" />
     <Compile Include="SupplierPaymentServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="AgencyPaymentServiceTests.cs" />
